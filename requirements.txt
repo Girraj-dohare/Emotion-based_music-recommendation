@@ -1,8 +1,8 @@
-streamlit
-opencv-python
-Streamlit-webrtc
-Streamlit-card
-tensorflow
-mediapipe
-streamlit_extras
-numpy
+pip install streamlit
+pip install opencv-python
+pip install Streamlit-webrtc
+pip install Streamlit-card
+pip install tensorflow
+pip install mediapipe
+pip install streamlit_extras
+pip install numpy
