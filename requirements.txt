@@ -1,3 +1,4 @@
+streamlit
 opencv-python
 Streamlit-webrtc
 Streamlit-card
@@ -5,4 +6,3 @@ tensorflow
 mediapipe
 streamlit_extras
 numpy
-streamlit
