@@ -1,5 +1,4 @@
-# Emotion-Identifier
-This Project is done by the Contribution of Ajay Garg and Girraj Dohare based on Machine Learning in which we uses Python language for implementing it 
+
 
 To Run the File You Need
 
